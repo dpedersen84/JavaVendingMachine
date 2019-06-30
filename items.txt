@@ -1,0 +1,9 @@
+Bubbleyum::35::1.00
+Butterfinger::5::1.75
+Cheetos::3::2.00
+Doritos::4::2.00
+Ipod::2::200.00
+Reese's::10::1.00
+Skittles::9::2.00
+Snickers::10::2.00
+Twix::191::1.75
